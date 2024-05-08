@@ -13,13 +13,13 @@ experiences.
 
 ## WORK EXPERIENCE
 
-Eland Retail Backend Develop Team `(04/2022 ~ 04/2024)`
+Eland Retail`(04/2022 ~ 04/2024)`
 
-Glocaloca Platform Develop Team `(02/2022 ~ 05/2022)`
+Glocaloca Proptech Platform `(02/2022 ~ 05/2022)`
 
-Carrot Solutions Solution Develop `(05/2020 ~ 04/2021)`
+Carrot Solutions `(05/2020 ~ 04/2021)`
 
-We make score System Develop `(11/2018 ~ 05/2020)`
+Wemakescore `(11/2018 ~ 05/2020)`
 
 ## EDUCATION
 
